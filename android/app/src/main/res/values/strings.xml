@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AppMusicR</string>
+    <string name="title_activity_main">AppMusicR</string>
+    <string name="package_name">appmusic.med.com</string>
+    <string name="custom_url_scheme">appmusic.med.com</string>
+</resources>

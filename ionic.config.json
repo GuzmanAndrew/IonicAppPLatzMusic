@@ -1,0 +1,7 @@
+{
+  "name": "platzi-prueba",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
